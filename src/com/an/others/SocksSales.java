@@ -1,4 +1,4 @@
-package com.an.hackerrank;
+package com.an.others;
 
 import java.util.HashMap;
 import java.util.Iterator;
